@@ -9,4 +9,4 @@ test_paths = [
 
 [tool.mypy]
 mypy_path = "src"
-ignore_missings_imports  = true
+ignore_missing_imports = true
