@@ -3,6 +3,7 @@ site_name: IPYNBRENDERERBYDIP
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - API Reference: APIReference.md
 
 site_author: Dip Patel
 site_description: >-
@@ -71,4 +72,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/dipdaiict"  target="_blank" rel="noopener">Dip Patel</a>
