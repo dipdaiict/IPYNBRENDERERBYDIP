@@ -4,6 +4,7 @@ import urllib.request
 from IPYNBRENDERERBYDIP.custom_exceptions import InvalidURLException
 from IPYNBRENDERERBYDIP.logger import logger
 
+
 @ensure_annotations
 def is_valid(URL: str) -> bool:
     try:
