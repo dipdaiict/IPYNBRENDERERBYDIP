@@ -3,6 +3,10 @@ import sys
 import logging
 import inspect
 
+"""
+Tracke the Log.
+"""
+
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s]: %(message)s"
 log_dir = "./logs"
 log_filepath = os.path.join(log_dir, "running_logs.log")
